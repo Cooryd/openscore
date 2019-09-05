@@ -1,6 +1,6 @@
 ## A case
 
-1. A PhD student is starting to think about his dissertation research project. 
+1. A PhD student is starting to think about their dissertation research project. 
 2. They are interested in infectious disease diagnosis. They want to perform a literature review, hoping to find some inspiration.
 3. They know that some authors are starting to share datasets alongside articles. Those datasets could give them ideas for narrowing down the scope of their project, and even become part of their own research. As they have no access to proprietary software, they would also like to find data encoded in open formats.  
 4. As they start the review, they notice that it's not always obvious if a paper's data is available. And even when it is, it's not easy to know if that data can be reused, since reuse depends on how data is structured and what software was used by researchers.  
