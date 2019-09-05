@@ -46,3 +46,9 @@ Open Science is revolutionising the way people do research and share knowledge. 
 *   Is this paper written in proper structure?
 
 ## Features to be implemented after the MVP
+
+*   Sign-in using ORCID
+*   Search for similar articles
+*   Journal weighting (e.g. Some journals require authors to share datasets, and others only recommend it. If authors are not required to upload a dataset but do it anyway, positive votes may count double)
+*   Rating datasets and metadata
+* 	Open Badges integration
