@@ -36,6 +36,7 @@ Open Science is revolutionising the way people do research and share knowledge. 
 *   Is the code reproducible/runnable?
 *   Does the paper contain a funding statement?
 *   Is the data posted to an open repository?
+*   Is the data reusable?
 *   Are the Methods described properly?
 *   Are the protocols deposited to https://www.protocols.io/
 *   Does this paper contain videos?
@@ -47,8 +48,8 @@ Open Science is revolutionising the way people do research and share knowledge. 
 
 ## Features to be implemented after the MVP
 
-*   Sign-in using ORCID
+*   Sign-in using [ORCID](https://orcid.org/)
 *   Search for similar articles
 *   Journal weighting (e.g. Some journals require authors to share datasets, and others only recommend it. If authors are not required to upload a dataset but do it anyway, positive votes may count double)
 *   Rating datasets and metadata
-* 	Open Badges integration
+* 	[Open Science Badges](https://cos.io/our-services/open-science-badges/) integration
