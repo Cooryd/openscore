@@ -29,6 +29,7 @@ Open Science is revolutionising the way people do research and share knowledge. 
 
 *   Paper is published -> Reader views paper -> Reader chooses to view/edit ratings -> Rating is posted to social media
 *   User comes to Rating Site -> User Filters all available articles by ratings 
+*   User wants to compare the OpenScores of articles addressing an issue -> Users search among all available articles by title 
 
 ## Supported Ratings
 
@@ -53,3 +54,4 @@ Open Science is revolutionising the way people do research and share knowledge. 
 *   Journal weighting (e.g. Some journals require authors to share datasets, and others only recommend it. If authors are not required to upload a dataset but do it anyway, positive votes may count double)
 *   Rating datasets and metadata
 * 	[Open Science Badges](https://cos.io/our-services/open-science-badges/) integration
+*   Compare the composition of two different OpenScores
