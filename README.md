@@ -17,6 +17,8 @@ Open Science is revolutionising the way people do research and share knowledge. 
 *   Publisher
 *   Archivists
 
+To learn more about use cases, check out [this page](https://github.com/Cooryd/openscore/blob/master/a_case.md). 
+
 ## Use Cases
 
 *   Looking for a collaborator
