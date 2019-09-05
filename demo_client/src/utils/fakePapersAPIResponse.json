@@ -1,0 +1,74 @@
+{
+  "papers": [
+    {
+      "id": "48630",
+      "title": "Activation mechanism of the insulin receptor revealed by cryo-EM structure of the fully liganded receptor–ligand complex",
+      "authors": "Emiko Uchikawa et al.",
+      "abstract": "Insulin signaling controls metabolic homeostasis. Here, we report the cryo-EM structure of full-length insulin receptor (IR) and insulin complex in the active state. This structure unexpectedly reveals that maximally four insulins can bind the ‘T’-shaped IR dimer at four distinct sites related by 2-fold symmetry. Insulins 1 and 1’ bind to sites 1 and 1’, formed by L1 of one IR protomer and α-CT and FnIII-1 of the other. Insulins 2 and 2’ bind to sites 2 and 2’ on FnIII-1 of each protomer. Mutagenesis and cellular assays show that both sites 1 and 2 are required for optimal insulin binding and IR activation. We further identify a homotypic FnIII-2–FnIII-2 interaction in mediating the dimerization of membrane proximal domains in the active IR dimer. Our results indicate that binding of multiple insulins at two distinct types of sites disrupts the autoinhibited apo-IR dimer and stabilizes the active dimer.",
+      "doi": "10.7554/eLife.48630.001"
+    },
+    {
+      "id": "47929",
+      "title": "Cardiac neural crest contributes to cardiomyocytes in amniotes and heart regeneration in zebrafish",
+      "authors": "Weiyi Tang et al.",
+      "abstract": "A central problem in human biology remains the discovery of causal molecular links between mutations identified in genome-wide association studies (GWAS) and their corresponding disease traits. This challenge is magnified for variants residing in non-coding regions of the genome. Single-nucleotide polymorphisms (SNPs) in the 5ʹ untranslated region (5ʹ-UTR) of the ferritin light chain (FTL) gene that cause hyperferritinemia are reported to disrupt translation repression by altering iron regulatory protein (IRP) interactions with the FTL mRNA 5ʹ-UTR. Here, we show that human eukaryotic translation initiation factor 3 (eIF3) acts as a distinct repressor of FTL mRNA translation, and eIF3-mediated FTL repression is disrupted by a subset of SNPs in FTL that cause hyperferritinemia. These results identify a direct role for eIF3-mediated translational control in a specific human disease.",
+      "doi": "10.7554/eLife.48193.001"
+    },
+    {
+      "id": "48193",
+      "title": "Repression of ferritin light chain translation by human eIF3",
+      "authors": "Mia C Pulos-Holmes et al.",
+      "abstract": "A central problem in human biology remains the discovery of causal molecular links between mutations identified in genome-wide association studies (GWAS) and their corresponding disease traits. This challenge is magnified for variants residing in non-coding regions of the genome. Single-nucleotide polymorphisms (SNPs) in the 5ʹ untranslated region (5ʹ-UTR) of the ferritin light chain (FTL) gene that cause hyperferritinemia are reported to disrupt translation repression by altering iron regulatory protein (IRP) interactions with the FTL mRNA 5ʹ-UTR. Here, we show that human eukaryotic translation initiation factor 3 (eIF3) acts as a distinct repressor of FTL mRNA translation, and eIF3-mediated FTL repression is disrupted by a subset of SNPs in FTL that cause hyperferritinemia. These results identify a direct role for eIF3-mediated translational control in a specific human disease.",
+      "doi": "10.7554/eLife.48193.001"
+    },
+    {
+      "id": "46112",
+      "title": "Neuropeptide F regulates courtship in Drosophila through a male-specific neuronal circuit",
+      "authors": "Weiwei Liu et al.",
+      "abstract": "Male courtship is provoked by perception of a potential mate. In addition, the likelihood and intensity of courtship are influenced by recent mating experience, which affects sexual drive. Using Drosophila melanogaster, we found that the homolog of mammalian neuropeptide Y, neuropeptide F (NPF), and a cluster of male-specific NPF (NPFM) neurons, regulate courtship through affecting courtship drive. Disrupting NPF signaling produces sexually hyperactive males, which are resistant to sexual satiation, and whose courtship is triggered by sub-optimal stimuli. We found that NPFM neurons make synaptic connections with P1 neurons, which comprise the courtship decision center. Activation of P1 neurons elevates NPFM neuronal activity, which then act through NPF receptor neurons to suppress male courtship, and maintain the proper level of male courtship drive.",
+      "doi": "10.7554/eLife.49574.001"
+    },
+    {
+      "id": "47615",
+      "title": "Endangered wild salmon infected by newly discovered viruses",
+      "authors": "Gideon J Mordecai et al.",
+      "abstract": "The collapse of iconic, keystone populations of sockeye (Oncorhynchus nerka) and Chinook (Oncorhynchus tshawytscha) salmon in the Northeast Pacific is of great concern. It is thought that infectious disease may contribute to declines, but little is known about viruses endemic to Pacific salmon. Metatranscriptomic sequencing and surveillance of dead and moribund cultured Chinook salmon revealed a novel arenavirus, reovirus and nidovirus. Sequencing revealed two different arenavirus variants which each infect wild Chinook and sockeye salmon. In situ hybridisation localised arenavirus mostly to blood cells. Population surveys of >6000 wild juvenile Chinook and sockeye salmon showed divergent distributions of viruses, implying different epidemiological processes. The discovery in dead and dying farmed salmon of previously unrecognised viruses that are also widely distributed in wild salmon, emphasizes the potential role that viral disease may play in the population dynamics of wild fish stocks, and the threat that these viruses may pose to aquaculture.",
+      "doi": "10.7554/eLife.47615.001"
+    },
+    {
+      "id": "46007",
+      "title": "MicroRNA-mediated control of developmental lymphangiogenesis",
+      "authors": "Hyun Min Jung et al.",
+      "abstract": "The post-transcriptional mechanisms contributing to molecular regulation of developmental lymphangiogenesis and lymphatic network assembly are not well understood. MicroRNAs are important post-transcriptional regulators during development. Here, we use high throughput small RNA sequencing to identify miR-204, a highly conserved microRNA dramatically enriched in lymphatic vs. blood endothelial cells in human and zebrafish. Suppressing miR-204 leads to loss of lymphatic vessels while endothelial overproduction of miR-204 accelerates lymphatic vessel formation, suggesting a critical positive role for this microRNA during developmental lymphangiogenesis. We also identify the NFATC1 transcription factor as a key miR-204 target in human and zebrafish, and show that NFATC1 suppression leads to lymphatic hyperplasia. The loss of lymphatics caused by miR-204 deficiency can be largely rescued by either endothelial autonomous expression of miR-204 or by suppression of NFATC1. Together, our results highlight a miR-204/NFATC1 molecular regulatory axis required for proper lymphatic development.",
+      "doi": "10.7554/eLife.46007.001"
+    },
+    {
+      "id": "44454",
+      "title": "Correlated evolution between repertoire size and song plasticity predicts that sexual selection on song promotes open-ended learning",
+      "authors": "Cristina M Robinson et al.",
+      "abstract": "Some oscine songbird species modify their songs throughout their lives (‘adult song plasticity’ or ‘open-ended learning’), while others crystallize their songs around sexual maturity. It remains unknown whether the strength of sexual selection on song characteristics, such as repertoire size, affects adult song plasticity, or whether adult song plasticity affects song evolution. Here, we compiled data about song plasticity, song characteristics, and mating system and then examined evolutionary interactions between these traits. Across 67 species, we found that lineages with adult song plasticity show directional evolution toward increased syllable and song repertoires, while several other song characteristics evolved faster, but in a non-directional manner. Song plasticity appears to drive bi-directional transitions between monogamous and polygynous social mating systems. Notably, our analysis of correlated evolution suggests that extreme syllable and song repertoire sizes drive the evolution of adult song plasticity or stability, providing novel evidence that sexual selection may indirectly influence open- versus closed-ended learning.",
+      "doi": "10.7554/eLife.44454.001"
+    },
+    {
+      "id": "44986",
+      "title": "Reduced metabolism supports hypoxic flight in the high-flying bar-headed goose (Anser indicus)",
+      "authors": "Jessica U Meir et al.",
+      "abstract": "The bar-headed goose is famed for migratory flight at extreme altitude. To better understand the physiology underlying this remarkable behavior, we imprinted and trained geese, collecting the first cardiorespiratory measurements of bar-headed geese flying at simulated altitude in a wind tunnel. Metabolic rate during flight increased 16-fold from rest, supported by an increase in the estimated amount of O2 transported per heartbeat and a modest increase in heart rate. The geese appear to have ample cardiac reserves, as heart rate during hypoxic flights was not higher than in normoxic flights. We conclude that flight in hypoxia is largely achieved via the reduction in metabolic rate compared to normoxia. Arterial Po2 was maintained throughout flights. Mixed venous PO2 decreased during the initial portion of flights in hypoxia, indicative of increased tissue O2 extraction. We also discovered that mixed venous temperature decreased during flight, which may significantly increase oxygen loading to hemoglobin.",
+      "doi": "10.7554/eLife.44986.001"
+    },
+    {
+      "id": "44942",
+      "title": "Parental vaccination to reduce measles immunity gaps in Italy",
+      "authors": "Jessica U Meir et al.",
+      "abstract": "High-income countries are experiencing measles reemergence as the result of suboptimal vaccine uptake and marked immunity gaps among adults. In 2017, the Italian Government introduced mandatory vaccination at school entry for ten infectious diseases, including measles. However, sustainable and effective vaccination strategies targeting adults are still lacking. We use a data-driven model of household demography to estimate the potential impact on future measles epidemiology of a novel immunization strategy, to be implemented on top of the 2017 regulation, which consists of offering measles vaccine to the parents of children who get vaccinated. Model simulations suggest that the current vaccination efforts in Italy would not be sufficient to interrupt measles transmission before 2045 because of the frequency of susceptible individuals between 17 and 44 years of age. The integration of the current policy with parental vaccination has the potential to reduce susceptible adults by 17–35%, increasing the chance of measles elimination before 2045 up to 78.9–96.5%.",
+      "doi": "10.7554/eLife.44942.001"
+    },
+    {
+      "id": "47434",
+      "title": "The readily-releasable pool dynamically regulates multivesicular release",
+      "authors": "Jenna N Adams et al.",
+      "abstract": "The number of neurotransmitter-filled vesicles released into the synaptic cleft with each action potential dictates the reliability of synaptic transmission. Variability of this fundamental property provides diversity of synaptic function across brain regions, but the source of this variability is unclear. The prevailing view is that release of a single (univesicular release, UVR) or multiple vesicles (multivesicular release, MVR) reflects variability in vesicle release probability, a notion that is well-supported by the calcium-dependence of release mode. However, using mouse brain slices, we now demonstrate that the number of vesicles released is regulated by the size of the readily-releasable pool, upstream of vesicle release probability. Our results point to a model wherein protein kinase A and its vesicle-associated target, synapsin, dynamically control release site occupancy to dictate the number of vesicles released without altering release probability. Together these findings define molecular mechanisms that control MVR and functional diversity of synaptic signaling.",
+      "doi": "10.7554/eLife.47434.001"
+    }
+  ]
+}

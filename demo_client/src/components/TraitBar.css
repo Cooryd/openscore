@@ -1,0 +1,26 @@
+.trait {
+    width: 100%;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.trait__bar {
+  position: absolute;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.trait__bar--yes {
+  z-index: 3;
+  background-color: #abfad4
+}
+.trait__bar--no {
+  z-index: 2;
+  background-color: #fdc4d2;
+}
+.trait__bar--na {
+  z-index: 1;
+  background-color: #f1f1f1;
+}
