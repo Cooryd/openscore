@@ -1,9 +1,13 @@
 ## Rate-a-paper Article Rating System
 
+## Aims & Scope
+
+Open Science is revolutionising the way people do research and share knowledge. In this context, it has become more and more important to identify what research outputs comply with good Open Science practices. *RateAPaper* is a rating system that allows users to:
+
+* Easily identify in what respect a certain paper follows good OS practises  
+* Interact with papers by rating them
 
 ## Personas
-
-
 
 *   Author/co-authors
 *   Reader
@@ -13,29 +17,20 @@
 *   Publisher
 *   Archivists
 
-
 ## Use Cases
-
-
 
 *   Looking for a collaborator
 *   Writing my own paper
 *   Grant Management Officers (GMOs)
 *   Choosing which articles to read
-*   
-
+*   Planning and conducting a dissertation research project
 
 ## Primary User Flows
-
-
 
 *   Paper is published -> Reader views paper -> Reader chooses to view/edit ratings -> Rating is posted to social media
 *   User comes to Rating Site -> User Filters all available articles by ratings 
 
-
 ## Supported Ratings
-
-
 
 *   Does this paper contain code?
 *   Is the code reproducible/runnable?
