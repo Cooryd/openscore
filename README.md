@@ -1,8 +1,8 @@
-## Rate-a-paper Article Rating System
+## OpenScore - Article Rating System
 
 ## Aims & Scope
 
-Open Science is revolutionising the way people do research and share knowledge. In this context, it has become more and more important to identify what research outputs comply with good Open Science practices. *Rate-A-Paper* is a rating system that allows users to:
+Open Science is revolutionising the way people do research and share knowledge. In this context, it has become more and more important to identify what research outputs comply with good Open Science practices. *OpenScore* is a rating system that allows users to:
 
 * Easily identify in what respect a certain paper follows good OS practises  
 * Interact with papers by rating them
